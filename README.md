@@ -3,7 +3,8 @@
 A vanilla JavaScript web application that visualizes the Bubble Sort algorithm in real-time.
 
 ### The Logic Behind the Algorithm
-<img width="1912" height="600" alt="image" src="https://github.com/user-attachments/assets/242bfb02-9d8b-417c-88a1-213ffea050d9" />
+<img width="1911" height="583" alt="image" src="https://github.com/user-attachments/assets/56afbcce-7826-49d8-a4f7-c41fd237e475" />
+
 
 
 
