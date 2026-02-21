@@ -28,3 +28,4 @@ The "Bubble" sort logic works by repeatedly stepping through the list, comparing
 * **HTML5**: Semantic structure for the layout and control panel.
 * **CSS3**: Flexbox for bar alignment and transitions for smooth color changes.
 * **JavaScript**: DOM manipulation and asynchronous logic for the sorting animation.
+<img width="1919" height="552" alt="image" src="https://github.com/user-attachments/assets/04ea2ad3-c7b4-4bfe-a3d4-701108404814" />
